@@ -1,5 +1,4 @@
 Name: Jason Huynh
-Student Number: 101181045
 
 Files:
 Student.h - header file that defines the members and functions for the student object
